@@ -1,7 +1,7 @@
 # 99-azureml-horovod
 Repo to investigate horovod on azureml - container issues
 
-
+**NOTE**: The error notebook runs just fine, the experiment succeeds, error is gone.
 
 ## 1. Create Workspace
 
